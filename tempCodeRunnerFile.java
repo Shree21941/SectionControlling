@@ -1,0 +1,1 @@
+javac --module-path "C:\JavaFX\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml -d ../bin RailwaySimulation.java Train.java Station.java
